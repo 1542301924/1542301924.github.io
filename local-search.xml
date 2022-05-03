@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2022/05/03/test/"/>
+    <url>/2022/05/03/test/</url>
+    
+    <content type="html"><![CDATA[<h1 id="1号测速"><a href="#1号测速" class="headerlink" title="1号测速"></a>1号测速</h1><h2 id="2号测速"><a href="#2号测速" class="headerlink" title="2号测速"></a>2号测速</h2><p>test test test test test test test test test test test test</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>教程</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>board</title>
     <link href="/2022/04/28/board/"/>
     <url>/2022/04/28/board/</url>
